@@ -1,0 +1,9 @@
++++
+title = "Meu primeiro post"
+date = 2021-11-12T12:00:00Z
+[taxonomies]
+categories=["blog"]
+tags=["post", "blog"]
++++
+
+This is my first updated blog post.

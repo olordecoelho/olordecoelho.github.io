@@ -1,0 +1,142 @@
+base_url = "https://github.com/tchartron/blow"
+
+title = "Olordecoelho"
+description = "This page is dedicated to expressing my most controversial ideas"
+
+default_language = "en"
+
+output_dir = "public"
+
+compile_sass = false
+
+minify_html = false
+
+ignored_content = []
+
+generate_feed = false
+
+feed_filename = "atom.xml"
+
+hard_link_static = false
+
+taxonomies = [
+    {name = "tags", paginate_by = 5, feed = true},
+    {name = "categories", paginate_by = 5, feed = true},
+]
+
+build_search_index = true
+
+[markdown]
+
+highlight_code = true
+
+extra_syntaxes = []
+
+highlight_theme = "base16-ocean-dark"
+
+render_emoji = false
+
+external_links_target_blank = false
+
+external_links_no_follow = false
+
+external_links_no_referrer = false
+
+smart_punctuation = false
+
+[link_checker]
+skip_prefixes = [
+    "http://[2001:db8::]/",
+]
+
+skip_anchor_prefixes = [
+    "https://caniuse.com/",
+]
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+[search]
+include_title = true
+include_description = true
+include_path = true
+include_content = true
+truncate_content_length = 100
+
+[translations]
+
+[languages]
+# For example
+[languages.pt]
+title = "Olordecoelho"
+description = "Essa pagina e dedicada pra expressar minhas ideias mais controversas"
+generate_feed = false
+taxonomies = [
+    {name = "tags", paginate_by = 5, feed = true},
+    {name = "categories", paginate_by = 5, feed = true},
+]
+[extra]
+
+
+[extra.navbar]
+items = [
+    { lang = "en", links = [
+        { url = "/", name = "Home" },
+        { url = "/blog", name = "Blog" },
+        { url = "/categories", name = "Categories" },
+        { url = "/tags", name = "Tags" },
+    ] },
+    { lang = "pt", links = [
+        { url = "/pt", name = "Home" },
+        { url = "/pt/blog", name = "Blog" },
+        { url = "/pt/categories", name = "Categorias" },
+        { url = "/pt/tags", name = "Tags" },
+    ] },
+]
+title = "olordecoelho"
+
+[extra.lang]
+items = [
+    { lang = "en", links = [
+        { base_url = "/", name = "English" },
+        { base_url = "/pt", name = "Portuguese" },
+    ] },
+    { lang = "pt", links = [
+        { base_url = "/", name = "Inglês" },
+        { base_url = "/pt", name = "Português" },
+    ] },
+]
+
+[extra.sidebar]
+items = [
+    { lang = "en", links = [
+        { url = "/markdown", name = "Markdown" },
+        { url = "/blog", name = "Blog" },
+    ] },
+    { lang = "pt", links = [
+        { url = "/pt/markdown", name = "Markdown" },
+        { url = "/pt/blog", name = "Blog" },
+    ] },
+]
+
+[extra.index]
+title = "Daniel Coelho"
+image = "https://media.licdn.com/dms/image/D4E03AQEnAIZyFaC56g/profile-displayphoto-shrink_800_800/0/1691590392164?e=1721260800&v=beta&t=F-M9v0Uga_aFScKl4WzhS001x0xrwjNxZdlKWLlM3GY"
+image_alt = "Placeholder text describing the index's image."
+
+[extra.default_author]
+name = "Daniel Coelho"
+avatar = "https://via.placeholder.com/200"
+avatar_alt = "Placeholder text describing the default author's avatar."
+
+[extra.social]
+
+github = "https://github.com/olordecoelho"
+gitlab = "https://gitlab.com/olordecoelho"
+twitter = "https://twitter.com/olordecoelho"
+linkedin = "https://www.linkedin.com/in/olordecoelho/"
+stackoverflow = "https://stackoverflow.com/users/25090017/olordecoelho" 
+telegram = "https://t.me/olordecoelho"
+email = "olordecoelho@proton.me"
