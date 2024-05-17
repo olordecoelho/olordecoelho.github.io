@@ -1,6 +1,6 @@
 +++
 title = "Meu primeiro post"
-date = 2021-11-12T12:00:00Z
+date = 2024-05-16T12:00:00Z
 [taxonomies]
 categories=["blog"]
 tags=["post", "blog"]
@@ -14,13 +14,19 @@ Primeiro, deixa eu me apresentar melhor. Sou desenvolvedor, artista e um amante 
 
 ## Principais Habilidades:
 
-1. Busca no google:
+### Busca no google:
     Minha habilidade de busca no Google é tão afiada que, se eu não encontro algo, provavelmente não existe!
-2. Ctrl+c & Ctrl+v:
+
+
+### Ctrl+c & Ctrl+v:
     "Nada se cria tudo se copia".
-3. Fonte: Confia:
+
+
+### Fonte: Confia:
     Nunca me pergunte sobre fontes, mas certamente estarão no google então em vez de me perguntar procure.
-4. TDAH:
+
+
+### TDAH:
             ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⢠⣿⣿⡿⠶⠶⠶⠶⠤⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
         ⢀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣤⣾⣿⣿⣤⣤⣤⣤⣤⣤⣤⣼⣀⣠⣤⣤⣤⣤⣤⣤⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⢀⠜⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
         ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣾⣀⣀⣀⣀⣀⣀⣀⣀⣀⡀
