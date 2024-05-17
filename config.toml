@@ -134,7 +134,6 @@ avatar_alt = "Placeholder text describing the default author's avatar."
 [extra.social]
 
 github = "https://github.com/olordecoelho"
-gitlab = "https://gitlab.com/olordecoelho"
 twitter = "https://twitter.com/olordecoelho"
 linkedin = "https://www.linkedin.com/in/olordecoelho/"
 stackoverflow = "https://stackoverflow.com/users/25090017/olordecoelho" 
