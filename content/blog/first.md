@@ -2,8 +2,8 @@
 title = "Meu primeiro post"
 date = 2024-05-16T12:00:00Z
 [taxonomies]
-categories=["blog"]
-tags=["post", "blog"]
+categories=["olordecoelho"]
+tags=["diario", "sobre mim"]
 +++
 
 # Bem-vindo ao meu caos organizado!
@@ -15,27 +15,30 @@ Primeiro, deixa eu me apresentar melhor. Sou desenvolvedor, artista e um amante 
 ## Principais Habilidades:
 
 ### Busca no google:
-    Minha habilidade de busca no Google é tão afiada que, se eu não encontro algo, provavelmente não existe!
+Minha habilidade de busca no Google é tão afiada que, se eu não encontro algo, provavelmente não existe!
 
 
 ### Ctrl+c & Ctrl+v:
-    "Nada se cria tudo se copia".
+"Nada se cria tudo se copia".
 
 
 ### Fonte: Confia:
-    Nunca me pergunte sobre fontes, mas certamente estarão no google então em vez de me perguntar procure.
+Nunca me pergunte sobre fontes, mas certamente estarão no google então em vez de me perguntar procure.
 
 
 ### TDAH:
-            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⢠⣿⣿⡿⠶⠶⠶⠶⠤⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-        ⢀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣤⣾⣿⣿⣤⣤⣤⣤⣤⣤⣤⣼⣀⣠⣤⣤⣤⣤⣤⣤⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⢀⠜⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-        ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣾⣀⣀⣀⣀⣀⣀⣀⣀⣀⡀
-        ⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠻⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠟⠉⠿⠏⠉⠉⠉⠉⠉⠙⠛⠛⠃
-        ⢸⣿⣿⣿⣿⣿⣿⡿⠿⠛⠉⠁⠀⠀⠀⠀⠀⣿⣿⣿⠟⠉⢹⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-        ⠸⣿⡿⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⡿⠛⠉⠉⠙⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⡟⠀⠀⠀⠀⠀⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠃⠀⠀⠀⠀⠀⢻⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⠿⠿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+>    ⠀⠀⠀-------------⠀  ⠀⠀⠀⠀⠀⠀⠀  ⢠⣿⣿⡿⠶⠶⠶⠶⠤⠤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+>⢀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣤⣾⣿⣿⣤⣤⣤⣤⣤⣤⣤⣼⣀⣠⣤⣤⣤⣤⣤⣤⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⢀⠜⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+>⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣾⣀⣀⣀⣀⣀⣀⣀⣀⣀⡀
+>⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠻⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠟⠉⠿⠏⠉⠉⠉⠉⠉⠙⠛⠛⠃
+>⢸⣿⣿⣿⣿⣿⣿⡿⠿⠛⠉⠁⠀⠀⠀⠀⠀⣿⣿⣿⠟⠉⢹⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+>⠸⣿⡿⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⡿⠛⠉⠉⠙⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⡟⠀⠀⠀⠀⠀⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠃⠀⠀⠀⠀⠀⢻⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⠿⠿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀
 
 Estudo Análise e Desenvolvimento de Sistemas (ADS), mas vou ser sincero: só estou nessa pela diploma. Tudo que sei de verdade, aprendi sozinho na internet.
 Comecei a me interessar por tecnologia lá pelos 10 anos, quando meu pai comprou nosso primeiro PC. Fiquei fascinado e logo me vi caçando falhas em jogos online e aprendendo sobre redes. Foi aí que descobri que tudo no PC era feito por pessoas comuns, o que me inspirou a querer criar meus próprios jogos.
@@ -44,7 +47,7 @@ Comecei com RPG Maker, criando histórias de cavalaria que eu tanto adorava ler.
 
 Então, é isso. Esse blog vai ser meu diário digital, onde vou compartilhar insights, divagações e, quem sabe, algumas pérolas de sabedoria. Fique à vontade, comente, discorde, compartilhe suas ideias.
 
-*obs: não aceitamos furrys, veganos, fumantes de pendrive e rachadores(aqueles que fezem "RÃn DÃn dãn dãn dãn!)
+*obs: não aceitamos furrys, veganos, fumantes de pendrive e rachadores(aqueles que fezem "RÃn DÃn dãn dãn dãn")
 
 Abraço,
 Daniel Coelho
