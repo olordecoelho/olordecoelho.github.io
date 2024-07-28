@@ -1,8 +1,8 @@
 +++
-title = "Meu primeiro post"
+title = "Moby Dick, uma releitura minha"
 date = 2024-07-28T12:00:00Z
 [taxonomies]
-categories=["olordecoelho"]
+categories=["livros"]
 tags=["análise", "livros", "Moby Dick", "leviatã"]
 +++
 
