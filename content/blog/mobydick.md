@@ -82,6 +82,7 @@ Essa ideia se reflete na própria Moby Dick. A beleza imponente e a majestade da
 
 - **Imortalidade e Eternidade:** Na mente de Ahab, Moby Dick assume um aspecto quase imortal e eterno. A baleia parece ser uma força primordial e indestrutível, um aspecto da natureza que transcende o tempo e desafia a mortalidade humana.
 
+Certamente, o autor estava se referindo ao Deus cristão quando escreveu sobre Moby Dick, um Deus benevolente vestido em vestes brancas e puras, mas que pune ferozmente aqueles que se voltam contra ele. Assim como Lúcifer caiu pela força, assim como o grande rei Nimrod foi derrotado pela confusão, assim como Jericó sucumbiu ao cerco, Sodoma e Gomorra ao fogo, o Egito às pragas, o Rei Acabe à idolatria, Saul ao orgulho, Salomão à vaidade, Jerusalém aos Medos, Persas e aos Romanos; assim morreu Ahab
 ## Leviatã
 
 
