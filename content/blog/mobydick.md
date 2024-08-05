@@ -82,10 +82,74 @@ Essa ideia se reflete na própria Moby Dick. A beleza imponente e a majestade da
 
 - **Imortalidade e Eternidade:** Na mente de Ahab, Moby Dick assume um aspecto quase imortal e eterno. A baleia parece ser uma força primordial e indestrutível, um aspecto da natureza que transcende o tempo e desafia a mortalidade humana.
 
-Certamente, o autor estava se referindo ao Deus cristão quando escreveu sobre Moby Dick, um Deus benevolente vestido em vestes brancas e puras, mas que pune ferozmente aqueles que se voltam contra ele. Assim como Lúcifer caiu pela força, assim como o grande rei Nimrod foi derrotado pela confusão, assim como Jericó sucumbiu ao cerco, Sodoma e Gomorra ao fogo, o Egito às pragas, o Rei Acabe à idolatria, Saul ao orgulho, Salomão à vaidade, Jerusalém aos Medos, Persas e aos Romanos; assim morreu Ahab
+Certamente, o autor estava se referindo ao Deus cristão quando escreveu sobre Moby Dick, um Deus benevolente vestido em vestes brancas e puras, mas que pune ferozmente aqueles que se voltam contra ele. Assim como Lúcifer caiu pela força, assim como o grande rei Nimrod foi derrotado pela confusão, assim como Jericó sucumbiu ao cerco, Sodoma e Gomorra ao fogo, o Egito às pragas, o Rei Acabe à idolatria, Saul ao orgulho, Salomão à vaidade, Jerusalém aos Medos, Persas e aos Romanos; assim morreu Ahab.
+
+
 ## Leviatã
 
+Na Bíblia, o Leviatã é frequentemente descrito como uma criatura marítima monstruosa e poderosa. No livro de Jó, é descrito como um ser de força inigualável, que nenhum homem pode domar. De acordo com a descrição em Jó, o Leviatã é um monstro muito grande que mora no mar. Ele é muito forte e não pode ser domado nem caçado com lanças e arpões. Seu couro é duro como armadura e seus golpes são muito perigosos. Tem dentes grandes, fogo sai de sua boca e fumaça do seu nariz. Por onde passa deixa um rastro cintilante e agita muito a água.
 
+O Leviatã é uma criatura formada por Deus, que representa força indomável e perigosa. Em algumas partes da Bíblia é usado para simbolizar as forças do mal e do caos, que lutam contra Deus *(Isaías 27:1)*. O Leviatã, como o dragão, também representa o diabo. A palavra leviatã vem do hebraico, liwjathan, que significa, enrolar, dar a volta, animal que enrola, que nem um tatu-bola; o Leviatã bíblico é alguma criatura marinha, criada pelo Senhor que, mesmo sendo impressionante e assustador, ainda depende de Deus para viver, como toda a criação *(Salmos 104:25-27)*; no contexto desta análise, o Leviatã seré uma metáfora para o Estado.
+
+Thomas Hobbes, em sua obra "Leviatã", argumenta que a vida em estado de natureza seria "solitária, pobre, desagradável, brutal e curta" sem um poder centralizador para manter a ordem. Para Hobbes, a única solução para evitar o caos é a criação de um Estado poderoso e absoluto que detém a autoridade máxima sobre todos os aspectos da vida dos cidadãos. Este Estado, ou Leviatã, é necessário para proteger os indivíduos de sua própria natureza caótica e violenta.
+
+O Estado, segundo Hobbes, surge da necessidade humana de se proteger do caos e da violência do estado de natureza, onde cada indivíduo é um lobo para o outro. O Leviatã hobbesiano é um monstro artificial, criado pelo pacto social, que concentra em si todo o poder necessário para garantir a paz e a segurança dos cidadãos.
+
+### Pequot: o pacto social
+
+A ideia do contrato social, desenvolvida por filósofos como Thomas Hobbes, Jean-Jacques Rousseau e John Locke, sustenta que os indivíduos concordam em abdicar de certas liberdades em troca de proteção e benefícios proporcionados pelo Estado. No Pequod, os marinheiros firmam um contrato implícito ao se juntar à tripulação: aceitam a autoridade de Ahab e as duras condições de vida a bordo em troca da esperança de riquezas provenientes da caça às baleias. Eles entram no barco, rumando ao oceano, onde a saída é praticamente inexistente, confiando apenas nas promessas de sucesso e prosperidade que a pesca os poderia os proporcionar.
+
+Dentro do Pequod, a vida é bem dura, mas para muitas pessoas, especialmente as mais pobres, ou as pessoas não-brancas, a oportunidade de trabalho no mar representa uma chance única de sobrevivência e progresso(lembrando que estamos falando do século XIX onde a discriminação era surreal, principalmente nos países anglos). Queequeg, um canibal polinésio e tripulante do Pequot, é um exemplo de como a pesca na época ofereceu uma chance de integração e ganho financeiro que dificilmente encontraria em terra firme devido à discriminação e à falta de oportunidades. No mar, ele é avaliado por suas contribuições à missão que lhes fora dada. Todos os tripulantes do Pequot são fodidos, o que os torna fácil manipuláveis e pela ideia de se tornarem grandes heróis no mar e faturar uma boa grana, todos se alinham aos interesses do capitão que se aproveita da lealdade de seus subalternos e afunda o Pequot por causa de seu orgulho.
+
+O Estado, de forma semelhante, utiliza a promessa de auxílios, previdencia, segurança, proteção, carne barata, cervejinha, etc... para justificar a exploração de sua população. Justificando aumento de taxas de importação com "proteção à indústria brasileira", ou pegando parte do teu salário dizendo que "se você contribuir irá se aposentar daqui a 180 anos"; e as pessoas mais vulneráveis a esse tipo de promessa fajuta são justamente os mais pobres e as minorias, que se vendem ao estado por uns trocados, assim perpetuando esse câncer no poder infinitamente.
+
+
+
+**O Estado como protetor e opressor**
+
+A dualidade do Leviatã é evidente: por um lado, ele representa a força necessária para proteger os indivíduos contra as ameaças externas e internas. Por outro lado, o poder absoluto do Leviatã pode se transformar em um instrumento de opressão, sufocando as liberdades individuais e impondo uma ordem autoritária.
+
+A história da humanidade está repleta de exemplos que ilustram essa dualidade. Em muitos momentos, o Estado se apresentou como um protetor benevolente, garantindo direitos, promovendo o bem-estar social e impulsionando o desenvolvimento. No entanto, em outros momentos, o Estado se revelou como um tirano implacável, capaz de cometer atrocidades em nome da ordem e da segurança.
+
+**O Leviatã nos dias atuais**
+
+A metáfora do Leviatã, forjada nas ideias da filosofia política, continua a ecoar com uma ressonância surpreendente na contemporaneidade. A figura do monstro marinho, símbolo de poder absoluto e indomável, encontra um reflexo inquietante nas estruturas complexas e onipresentes dos Estados modernos.
+
+Um dos aspectos mais marcantes da atualidade é a intensificação da vigilância estatal. A coleta massiva de dados, a proliferação de câmeras de segurança e o desenvolvimento de algoritmos de monitoramento criam um ambiente de vigilância panóptica, onde os cidadãos se sentem constantemente observados. Essa vigilância, embora justificada pela necessidade de garantir a segurança e combater o crime, levanta sérias preocupações em relação à privacidade e à liberdade individual.
+
+A manipulação da informação também se tornou uma ferramenta poderosa nas mãos dos Estados. A propagação de notícias falsas, a censura e a criação de bolhas de informação fragmentam a sociedade e dificultam o debate público. A capacidade de moldar a opinião pública através dos meios de comunicação e das redes sociais permite que os governos manipulem o consenso e legitimem suas ações, mesmo as mais controversas.
+
+**A Restrição das Liberdades Civis e o Estado de Exceção**
+
+Em nome da "segurança nacional" ou da "luta contra o discurso de ódio", os Estados têm restringido cada vez mais as liberdades civis. A detenção arbitrária, a tortura e a vigilância de dissidentes são práticas comuns em muitos países. A noção de estado de exceção, que permite suspender as garantias constitucionais em situações de crise, tem sido utilizada para justificar a concentração de poder e a erosão do Estado de Direito.
+
+O Leviatã e as Corporações
+
+Além dos Estados, as grandes corporações também podem ser vistas como Leviatãs modernos. Com seu poder econômico e sua influência política, as corporações moldam as regras do mercado, exploram os recursos naturais e impõem seus interesses aos governos. A crescente concentração de riqueza e poder nas mãos de um pequeno grupo de empresas representa uma ameaça à democracia e à igualdade social.
+
+## O Leviatã e Ahab
+
+Em "Moby Dick", Herman Melville apresenta o Capitão Ahab como um símbolo potente do poder absoluto e da obsessão desenfreada pelo controle. Ahab, com sua perna de marfim e olhar implacável, exerce uma autoridade inquestionável sobre seu navio e sua tripulação. Essa figura imponente e dominadora pode ser vista como uma personificação do Leviatã de Thomas Hobbes, a alegoria do Estado soberano que detém o poder supremo e inquestionável sobre seus súditos.
+
+Ahab, em sua perseguição obsessiva pela baleia branca, Moby Dick, espelha essa visão de poder absoluto. Ele não apenas comanda seu navio, o Pequod, com uma mão de ferro, mas também impõe sua vontade pessoal sobre cada membro da tripulação. Sua autoridade não é questionada, e sua obsessão pela baleia transforma uma missão de pesca em uma cruzada pessoal. Ahab utiliza sua posição de poder para manipular e coagir seus homens, levando-os a embarcar em uma jornada que serve seus próprios interesses vingativos, e não os deles.
+
+Essa dinâmica de poder absoluto pode ser vista como uma analogia direta ao Estado hobbesiano. Assim como o Leviatã de Hobbes, Ahab acredita que sua autoridade é necessária para alcançar um objetivo maior, mesmo que isso signifique sacrificar o bem-estar de seus subordinados. A busca de Ahab por Moby Dick não é apenas uma busca por vingança, mas também uma manifestação de seu desejo de dominar e controlar uma força que ele considera indomável e ameaçadora. Ele vê Moby Dick não apenas como um animal, mas como uma entidade que desafia sua autoridade e poder, algo que ele deve submeter a qualquer custo.
+
+A relação de Ahab com sua tripulação é uma representação microcósmica dessa dinâmica de poder. Seus marinheiros são compelidos a seguir suas ordens, muitas vezes contra sua própria vontade e julgamento. Eles são mantidos sob o domínio de Ahab através de uma combinação de medo, lealdade forçada e a promessa de recompensas futuras. Esse controle sobre os marinheiros reflete como o Estado utiliza diversos mecanismos de poder para manter a ordem e a obediência entre seus cidadãos, muitas vezes recorrendo à coerção e à manipulação.
+
+A comparação entre Ahab e o Estado se torna ainda mais pertinente quando consideramos a forma como ambos lidam com a resistência. Ahab vê Moby Dick como um inimigo pessoal que deve ser destruído a qualquer custo, assim como o Estado frequentemente vê desafios à sua autoridade como ameaças que devem ser esmagadas. No entanto, essa perseguição implacável frequentemente leva a consequências desastrosas. No caso de Ahab, sua obsessão leva à destruição do Pequod e à morte de quase toda a sua tripulação. No caso do Estado, a busca incessante por controle pode levar à erosão das liberdades civis e à criação de um clima de medo e opressão.
+
+## A Baleia e o Bitcoin
+
+A imortalidade da baleia branca, que parece transcender o tempo e a mortalidade humana, ecoa na natureza não perecível do Bitcoin. A criptomoeda não se deteriora com o tempo. O mistério que envolve Moby Dick, que a torna uma força quase mítica, é refletido no anonimato proporcionado pelo Bitcoin. Embora o Bitcoin seja rastreável em termos de transações, a identidade dos usuários é frequentemente ocultada, criando uma aura de mistério e privacidade.
+
+A singularidade de Moby Dick, descrita como uma baleia única e inimitável, encontra uma analogia clara na escassez do Bitcoin. Assim como não há outra baleia como Moby Dick, o Bitcoin é limitado em sua oferta, com um fornecimento total fixado em 21 milhões de moedas. Essa característica torna o Bitcoin um ativo escasso e valioso
+
+A singularidade de Moby Dick, descrita como uma baleia única e inimitável, encontra uma analogia clara na escassez do Bitcoin. Assim como não há outra baleia como Moby Dick, o Bitcoin é limitado em sua oferta, com um fornecimento total fixado em 21 milhões de moedas. Essa característica torna o Bitcoin um ativo escasso e valioso, semelhante à baleia branca, cuja raridade e poder são inigualáveis.
+
+Assim como Moby Dick é uma força livre e indomável, o Bitcoin representa uma forma de liberdade financeira que desafia os controles tradicionais impostos pelos governos e instituições financeiras. A resistência da baleia branca à captura e controle reflete a resistência do Bitcoin às tentativas de regulamentação e imposição por parte dos governos. A natureza descentralizada do Bitcoin é uma forma de liberdade financeira que desagrada as autoridades, que buscam regular e controlar suas transações e influência.
+
+A baleia branca, assim como o Bitcoin, representa uma força indomável que não se curva aos caprichos e vontades de líderes autoritários. A busca obsessiva de Ahab por Moby Dick leva à sua própria destruição, assim como a tentativa do Estado de controlar o Bitcoin pode levar à erosão de sua própria autoridade. A liberdade e a resistência do Bitcoin, como a da baleia branca, prenunciam um futuro onde o poder absoluto e a busca desenfreada por controle serão desafiados e, possivelmente, derrotados.
 
 ---
 
